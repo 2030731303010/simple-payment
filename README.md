@@ -2,9 +2,11 @@
   Simple Payment with Solidity
 </h1>
 
-<p align="center"><img src="./docs/screen-recording.gif" alt="screen-recording gif" /></p>
+<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
 This repository is part of `University of the Thai Chamber of Commerce`, `Master of Engineering Program in Computer Engineering and Financial Technology`, Final Exam on `NF517 - Advanced Financial Technology (Blockchain/DApp)`
+
+For more details, please download to see this [Demo Video](https://github.com/2030731303010/simple-payment/blob/d4dd2f967f2701bef0dd6dcbed1b455cbaf9a03f/docs/video-recording.mp4)
 
 ## 🧐 Features
 
