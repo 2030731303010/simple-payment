@@ -1,6 +1,6 @@
 {
-  "short_name": "Butler",
-  "name": "Butler online marketing platform",
+  "short_name": "Payment",
+  "name": "Simple Payment with Solidity",
   "icons": [
     {
       "src": "favicon.ico",
