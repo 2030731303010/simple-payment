@@ -2,7 +2,7 @@
   Simple Payment with Solidity
 </h1>
 
-<p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
+<p align="center"><img src="./docs/screen-recording.gif" alt="screen-recording gif" /></p>
 
 This repository is part of `University of the Thai Chamber of Commerce`, `Master of Engineering Program in Computer Engineering and Financial Technology`, Final Exam on `NF517 - Advanced Financial Technology (Blockchain/DApp)`
 
