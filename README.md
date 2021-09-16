@@ -6,6 +6,7 @@
 
 This repository is part of `University of the Thai Chamber of Commerce`, `Master of Engineering Program in Computer Engineering and Financial Technology`, Final Exam on `NF517 - Advanced Financial Technology (Blockchain/DApp)`
 
+Deploy to Kovan Test Network
 Smart contract address [0x67324C484f35Aae0004f60ff2A109219D2620CB5](https://kovan.etherscan.io/address/0x67324c484f35aae0004f60ff2a109219d2620cb5)
 
 For more details, please download to see this [Demo Video](https://github.com/2030731303010/simple-payment/blob/d4dd2f967f2701bef0dd6dcbed1b455cbaf9a03f/docs/video-recording.mp4)
